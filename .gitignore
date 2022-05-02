@@ -3,7 +3,6 @@ logs/
 SerenityReports/
 evidencias
 assets
-esb-aut-api_Resources/features/**/*.feature
 
 # Excluir ejecutables de BDD
 *.zip
